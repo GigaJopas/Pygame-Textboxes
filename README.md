@@ -44,3 +44,4 @@ while running:
 
 	pygame.display.flip()
 ```
+![showcase gif](showcase.gif)
