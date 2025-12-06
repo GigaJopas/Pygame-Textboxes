@@ -2,7 +2,7 @@
 Simple pre-made Pygame textbox class.
 
 Example usage:
-
+```
 import pygame
 import PygameTextboxes as PyTBs
 
@@ -43,3 +43,4 @@ while running:
 	screen.blit(textbox1.text, textbox1.rect) # blit the text from the textbox onto the rect
 
 	pygame.display.flip()
+```
