@@ -1,6 +1,8 @@
 # Pygame-Textboxes
 Simple pre-made Pygame textbox class.
 
+![showcase gif](showcase.gif)
+
 Example usage:
 ```
 import pygame
@@ -44,4 +46,3 @@ while running:
 
 	pygame.display.flip()
 ```
-![showcase gif](showcase.gif)
