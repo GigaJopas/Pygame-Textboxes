@@ -50,4 +50,4 @@ while running:
 	pygame.display.flip()
 ```
 
-Important note: the input is stored at (your textbox).textinput!!!
+Important note: the input is stored at (your textbox).textinput
