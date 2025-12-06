@@ -1,7 +1,7 @@
 # Pygame-Textboxes
 Simple pre-made Pygame textbox class.
 
-ewas
+![showcase gif](showcase.gif)
 
 Check out my short Youtube guide on this too:
 https://www.youtube.com/watch?v=KwPRaNW94jI
